@@ -342,4 +342,8 @@ rimiHS          程序员
 rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
+<<<<<<< HEAD
 Dido            Add a line
+=======
+Pilates-cat     续一秒加一行
+>>>>>>> 981e9e3cd1e08cdf6e117781aa4faef71ed94a5e
